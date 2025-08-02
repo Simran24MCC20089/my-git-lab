@@ -1,1 +1,1 @@
-This is Simran's Git branch management experiment.
+Different edit from SimranConflict2 branch.
