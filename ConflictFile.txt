@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edit from SimranConflict1 branch.
+=======
+Different edit from SimranConflict2 branch.
+>>>>>>> SimranConflict2
